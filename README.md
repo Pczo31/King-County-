@@ -35,9 +35,7 @@ We then dropped date, view, waterfront, yr_renovated, condition, zipcode, sqft_b
 #### As we have discussed how to go about meeting their goals, we are centering our work around 3 questions:
 
 Which features are most highly correlated with price?
-
 Which features are most highly correlated with each other?
-
 Which combinations of features best predict house prices in a multiple regression model?
 
 
