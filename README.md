@@ -115,20 +115,5 @@ We will clarify to the stakeholder that these results could be improved with mor
 
 ## Conclusion
 
-Our ultimate conclusion is that this dataset has a mountain of relevant information to make predictions about home prices and relevant features, but a greater range of years of sales and perhaps more data points could provide greater clarity to our analysis.
-
-
-## Conclusion
-
-With the models we came up with the top four results came out to be:
-
-Grade ~ $37,000
-<br>
-Sqft of Living Space ~ $200
-<br>
-Waterfront ~ $467,000
-<br>
-View ~ $69,000
-<br>
-
+Our ultimate conclusion is that this dataset has a mountain of relevant information to make predictions about home prices and relevant features, but a greater range of years of sales and perhaps more data points could provide greater clarity to our analysis.  Thanks for reviewing our models!
 
