@@ -12,26 +12,26 @@ Our group has been employed by KC Realty Group of Seattle, WA to research and di
 ### The Data
 
 We had to clean out over 20,000 homes in the data set. How the dataset was broken down:<BR>
-Home Features:
-    Number of Bedrooms
-    Number of Bathrooms
-    Number of Floors
-    Square footage of the lot
-    Square footage of the living space for the nearest 15 neighbors
-    Square footage of the house
-    Square footage of the basement
-Home Quality:
-    The year the house was last renovated
-    How good the condition of the home was (on a scale of 1-5)
-Location:
-    The zip code/city of the home
-    If the home is on the water or not
-Waterfront:
-    Yes or No
-View:
-    Was sacled from worst to best (0-4)
+Home Features:<BR>
+    Number of Bedrooms<BR>
+    Number of Bathrooms<BR>
+    Number of Floors<BR>
+    Square footage of the lot<BR>
+    Square footage of the living space for the nearest 15 neighbors<BR>
+    Square footage of the house<BR>
+    Square footage of the basement<BR>
+Home Quality:<BR>
+    The year the house was last renovated<BR>
+    How good the condition of the home was (on a scale of 1-5)<BR>
+Location:<BR>
+    The zip code/city of the home<BR>
+    If the home is on the water or not<BR>
+Waterfront:<BR>
+    Yes or No<BR>
+View:<BR>
+    Was sacled from worst to best (0-4)<BR>
     
-We then dropped date, view, waterfront, yr_renovated, condition, zipcode, sqft_basement to have a better understanding of what the best features are for the home and property increase.
+We then dropped date, view, waterfront, yr_renovated, condition, zipcode, sqft_basement to have a better understanding of what the best features are for the home and property increase.<BR>
 
 ### Questions to be used in analysis
 
