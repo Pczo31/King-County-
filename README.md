@@ -11,21 +11,21 @@ Our group has been employed by KC Realty Group of Seattle, WA to research and di
 
 ### The Data
 
-We had to clean out over 20,000 homes in the data set. How the dataset was broken down:<BR>
-Home Features:<BR>
+We had to clean out over 20,000 homes in the data set. How the dataset was broken down:<BR><BR>
+Home Features:<BR><BR>
     Number of Bedrooms<BR>
     Number of Bathrooms<BR>
     Number of Floors<BR>
     Square footage of the lot <BR>
     Square footage of the living space for the nearest 15 neighbors<BR>
     Square footage of the house<BR>
-    Square footage of the basement<BR>
-Home Quality:<BR>
+    Square footage of the basement<BR><BR>
+Home Quality:<BR><BR>
     The year the house was last renovated<BR>
-    How good the condition of the home was (on a scale of 1-5)<BR>
-Location:<BR>
+    How good the condition of the home was (on a scale of 1-5)<BR><BR>
+Location:<BR><BR>
     The zip code/city of the home<BR>
-    If the home is on the water or not<BR>
+    If the home is on the water or not<BR><BR>
 Waterfront: Yes or No<BR>
 View: Was sacled from worst to best (0-4)<BR>
     
