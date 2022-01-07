@@ -47,6 +47,8 @@ Which combinations of features best predict house prices in a multiple regressio
 ##Check Correlations and Multicollinearity
 Our first two questions deal with how strongly a home's price is correlated to feature variables, and understanding which feature variables are strongly correlated to each other, which can deeply affect our models. The charts and data below assist in those determinations.
 
+## Examination of Correlations
+
 ### Heatmap 
 
 We created a heatmap to see how the independent features might be correlated to price and to each other: 
@@ -72,6 +74,13 @@ Most often, a correlation of 0.7 or higher is considered highly correlated to pr
 
 Question 2 - Which features are most correlated with other feature variables?
 Most notable is the strong correlation between sqft_living and sqft_above, and sensibly so, since in houses without a basement, the two values would likely be the same. Also, sqft_above is strong correlated with several other variables, so it will be dropped in most of our models to avoid multicollinearity.
+
+## Regression Modeling
+We're now ready to begin our multiple regression modeling. Our process will be the same for each model, beginning with a train - test split, a scatter plot to confirm that our data is behaving in a linear fashion, and then using an ols regression test to find R-squared values and to evaluate the coeffecients. We'll bar graph our top feature coefficient results, make decisions about what's next, and repeat the process until we are satisfied that we have found the best model.
+
+As we move forward, we must satisfy some assumptions. First, there should be a linear relationship between the target variable (price) and the feature (x) variables. Secondly, the data should be homoscedastic, that is, the residuals should have equal variance around the regression line on a scatterplot. The residuals should also follow a normal distribution. And, we are avoiding multicollinearity when possible.
+
+We are especially interested in the R-squared value, since it tells us what proportion of the variability of y around its mean can be explained by the model. This number falls between 0 and 1, and a higher value indicates greater power in prediction. Here we go!
 
 
 ## Recommendations
