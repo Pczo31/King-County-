@@ -11,7 +11,7 @@ Our group has been employed by KC Realty Group of Seattle, WA to research and di
 
 ### The Data
 
-We had to clean out over 20,000 homes in the data set. How the dataset was broken down:
+We had to clean out over 20,000 homes in the data set. How the dataset was broken down:<BR>
 Home Features:
     Number of Bedrooms
     Number of Bathrooms
