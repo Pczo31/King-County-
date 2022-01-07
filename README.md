@@ -102,17 +102,17 @@ The score for our train test:
 ![barchart](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.42.04%20AM.png)
 
 
-## Recommendations
+## Conclusion
 
 With the models we came up with the top four results came out to be:
 
-Grade ~
+Grade ~ $37,000
 <br>
-Sqft of Living Space ~
+Sqft of Living Space ~ $200
 <br>
-Waterfront ~
+Waterfront ~ $467,000
 <br>
-View ~
+View ~ $69,000
 <br>
 
-## Conclusion
+
