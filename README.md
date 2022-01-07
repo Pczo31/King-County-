@@ -116,5 +116,5 @@ We will clarify to the stakeholder that these results could be improved with mor
 
 ## Conclusion
 
-Our ultimate conclusion is that this dataset has a mountain of relevant information to make predictions about home prices and relevant features, but a greater range of years of sales and perhaps more data points could provide greater clarity to our analysis.  Thanks for reviewing our models!
+Our ultimate conclusion is that this dataset has a mountain of relevant information to make predictions about home prices and their features, but a greater range of years of sales and perhaps more data points could provide greater clarity to our analysis.  Thanks for reviewing our models!
 
