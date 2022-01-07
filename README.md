@@ -59,7 +59,8 @@ We created a heatmap to see how the independent features might be correlated to 
 
 ### Subplots
 
-We created subplots with our 9 variables and quickly discovered that sqft_above needed to be excluded due to the close correlation of sqft_living. We are now left with these 8 variables:
+We created subplots with our 9 variables and quickly discovered that sqft_above needed to be excluded due to the close correlation of sqft_living. We are now left with these 8 variables:<BR>
+    
 ![Subplots](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-06%20at%205.32.17%20PM.png)
 
 ## Answers to Questions 1 & 2
