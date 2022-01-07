@@ -101,9 +101,13 @@ The score for our train test:
 
 Recommendations
 With the models we came up with the top four results came out to be:
+
 Grade
+
 Sqft of Living Space
+
 Waterfront
+
 View
 
 
