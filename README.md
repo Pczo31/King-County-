@@ -82,6 +82,17 @@ As we move forward, we must satisfy some assumptions. First, there should be a l
 
 We are especially interested in the R-squared value, since it tells us what proportion of the variability of y around its mean can be explained by the model. This number falls between 0 and 1, and a higher value indicates greater power in prediction. Here we go!
 
+### Train - Test Split
+The key purpose of splitting the dataset into training and test sets is to estimate how well the learned model will generalize to new data. For this reason, the train - test split is an essential component of building models.
+
+The score for our train test:
+![regscore](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.42.04%20AM.png)
+
+
+![regression line](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.40.49%20AM.png)
+![ols](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.41.21%20AM.png)
+![barchart](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.42.04%20AM.png)
+
 
 ## Recommendations
 
