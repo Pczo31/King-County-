@@ -16,7 +16,7 @@ Home Features:<BR>
     Number of Bedrooms<BR>
     Number of Bathrooms<BR>
     Number of Floors<BR>
-    Square footage of the lot<BR>
+    Square footage of the lot <BR>
     Square footage of the living space for the nearest 15 neighbors<BR>
     Square footage of the house<BR>
     Square footage of the basement<BR>
@@ -26,10 +26,8 @@ Home Quality:<BR>
 Location:<BR>
     The zip code/city of the home<BR>
     If the home is on the water or not<BR>
-Waterfront:<BR>
-    Yes or No<BR>
-View:<BR>
-    Was sacled from worst to best (0-4)<BR>
+Waterfront: Yes or No<BR>
+View: Was sacled from worst to best (0-4)<BR>
     
 We then dropped date, view, waterfront, yr_renovated, condition, zipcode, sqft_basement to have a better understanding of what the best features are for the home and property increase.<BR>
 
