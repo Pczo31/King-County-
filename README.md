@@ -88,6 +88,8 @@ The key purpose of splitting the dataset into training and test sets is to estim
 The score for our train test:
 ![regscore](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.42.32%20AM.png)
 
+#### We ran multiple models, but the one below gave us the highest R-squared value of .637
+
 
 ![regression line](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.40.49%20AM.png)
 ![ols](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.41.21%20AM.png)
