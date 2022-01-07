@@ -7,8 +7,7 @@ Our group has been employed by KC Realty Group of Seattle, WA to research and di
 
 ### Business Problem
 
-It is up to you to define a stakeholder and business problem appropriate to this dataset.
-This project's goal was to develop a model that accurately predicts housing prices in King County. Our goal was to help a Real Estate team in King County with showing them different types of models that would give them a better understanding on how they can help their clients with explaing which features in a home can improve property value and which features would not. We came up with a lot of different combinations of models showing to results.
+Our group has been employed by KC Realty Group of Seattle, WA to research and discover which combination of features in single-family homes most influence selling price. Our intent is to develop a multiple regresion model to reveal the top features that guide a home's price. For this project, we will be using the King County Housing Data Set for home sales in the year 2014 and 2015.
 
 ### The Data
 
@@ -31,9 +30,20 @@ Waterfront:
     Yes or No
 View:
     Was sacled from worst to best (0-4)
-we then dropped date, view, waterfront, yr_renovated, condition, zipcode, sqft_basement to have a better understanding of what the best features are for the home and property increase.
+    
+We then dropped date, view, waterfront, yr_renovated, condition, zipcode, sqft_basement to have a better understanding of what the best features are for the home and property increase.
 
+### Questions to be used in analysis
 
+#### As we have discussed how to go about meeting their goals, we are centering our work around 3 questions:
+
+Which features are most highly correlated with price?
+
+Which features are most highly correlated with each other?
+
+Which combinations of features best predict house prices in a multiple regression model?
+
+!(https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-06%20at%205.32.17%20PM.png)
 
 
 ## Recommendations
