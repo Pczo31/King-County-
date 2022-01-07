@@ -96,6 +96,27 @@ The score for our train test:
 
 ![barchart](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.42.04%20AM.png)
 
+## Results
+
+The results of our models make recommendations difficult.  First, we had a very narrow dataset consisting of only a few years of data to build our models.  Secondly, our R-Squared values never broke the 0.7 mark after standardization, which weakened the strength of our models.  Here's a chart of our R-squared values for each model: 
+
+
+
+## Question 3
+
+Question 3, "Which combinations of features best predict house prices in a multiple regression model?", can now be answered by recommending the use of our 1st model, which showed sqft_living, grade, view, and waterfront as the variables which have the most affect on home prices.  For each unit of increase, the home price will roughly increase as follows:
+
+Sqft Living Space - $200<BR>
+Grade - $37,000<BR>
+Waterfront - $467,000<BR>
+View - $69,000<BR>
+
+We will clarify to the stakeholder that these results could be improved with more data, but that we believe they can use these features to maximize home prices and profitability for their company and clients.
+
+## Conclusion
+
+Our ultimate conclusion is that this dataset has a mountain of relevant information to make predictions about home prices and relevant features, but a greater range of years of sales and perhaps more data points could provide greater clarity to our analysis.
+
 
 ## Conclusion
 
