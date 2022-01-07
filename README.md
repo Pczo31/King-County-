@@ -100,7 +100,7 @@ The score for our train test:
 
 The results of our models make recommendations difficult.  First, we had a very narrow dataset consisting of only a few years of data to build our models.  Secondly, our R-Squared values never broke the 0.7 mark after standardization, which weakened the strength of our models.  Here's a chart of our R-squared values for each model: 
 
-![model_summ](Images/Screen Shot 2022-01-07 at 11.21.29 AM.png)
+![model_summ](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-07%20at%2011.21.29%20AM.png)
 
 ## Question 3
 
