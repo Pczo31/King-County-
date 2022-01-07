@@ -43,7 +43,7 @@ Which features are most highly correlated with each other?
 
 Which combinations of features best predict house prices in a multiple regression model?
 
-[HI](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-06%20at%205.32.17%20PM.png)
+![HI](https://github.com/jeffbeech/phase-2-project/blob/main/Images/Screen%20Shot%202022-01-06%20at%205.32.17%20PM.png)
 
 
 ## Recommendations
